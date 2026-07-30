@@ -1,0 +1,40 @@
+input[type = "password"]{
+    color: red;
+}
+input[type]{
+    background-color: ghostwhite;
+}
+
+#myId p {
+    color: green;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+h3:hover {
+    text-decoration: overline;
+}
+
+button:active{
+    background-color: pink;
+}
+p:active{
+   font-weight: bold;
+   color: green;
+}
+input[type="radio"]:checked + label{
+    color: red;
+    font-weight: bold;
+}
+.post:nth-of-type(2n){
+    background-color: blanchedalmond;
+}
+h3 {
+    background-color: blue;
+}
+h3{
+    background-color: yellow;
+}
