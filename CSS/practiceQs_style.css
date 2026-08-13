@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: #1b74e4;
+}
+#searchbtn{
+    color: white;
+    background-color:black;
+}
+/*#login,#register{
+    background-color: rgb(33, 236, 236);
+}*/
+
+.userbtn{
+    background-color: aqua;
+}
