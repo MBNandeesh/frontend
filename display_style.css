@@ -1,0 +1,13 @@
+h2{
+    display: inline;
+}
+
+span{
+    display: block;
+}
+
+span{
+    background-color: red;
+    border: 100px;
+    width: 200px;
+}
