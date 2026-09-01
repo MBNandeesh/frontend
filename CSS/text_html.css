@@ -1,0 +1,25 @@
+p1{
+    text-align: left;
+    text-decoration: line-through;
+    font-family: papyrus;
+    
+}
+p{
+    text-align: right;
+    text-decoration: red underline;
+    line-height: 2.5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+h1{
+    text-align: start;
+    font-weight: lighter;
+    text-decoration: underline;
+    letter-spacing: 15px;
+    
+}
+h2{
+    text-decoration: wavy underline;
+    letter-spacing: 20px;
+    font-size: 20px;
+}
